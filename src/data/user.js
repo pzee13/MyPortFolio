@@ -28,11 +28,13 @@ const INFO = {
 	},
 	
 
-	// articles: {
-	// 	title: "I'm passionate about pushing the boundaries of what's possible and inspiring the next generation of innovators.",
-	// 	description:
-	// 		"Chronological collection of my long-form thoughts on programming, leadership, product design, and more.",
-	// },
+	skills: {
+		programmingLanguages: "JavaScript, TypeScript, C++, Java, Python",
+		frameworksAndLibraries: "Node.js, Express.js, React, Redux, Mapbox, Tailwind CSS, Bootstrap",
+		technologies: "HTML, CSS, AWS, EC2, Nginx, MongoDB, PostgreSQL, Docker, REST API",
+		developmentAndTools: "Git, Postman, VSCode, Web Development",
+		conceptsAndMethodologies: "DSA, MVC Architecture, Clean Architecture, OOPS, JWT, SDLC, Figma",
+	  },
 
 	projects: [
 		{

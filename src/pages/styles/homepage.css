@@ -148,3 +148,28 @@
 		margin-right: -25px;
 	}
 }
+
+.homepage-skill {
+    margin-top: 40px;
+	 /* Adjust the value as needed */
+}
+
+.homepage-skill h2 {
+    font-size: 42px;
+    margin-bottom: 10px;
+	font-weight: 900;
+}
+
+.skills-section {
+    margin-bottom: 15px;
+}
+
+.skills-section h3 {
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+
+.skills-section p {
+    font-size: 16px;
+    line-height: 1.5;
+}

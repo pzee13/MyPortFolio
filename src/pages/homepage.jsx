@@ -166,6 +166,31 @@ const Homepage = () => {
 							</a>
 						</div>
 
+						<div className="homepage-skill">
+                            <h2>Skills and Technologies</h2>
+                            <div className="skills-section">
+                                <h3>Programming Languages</h3>
+                                <p>{INFO.skills.programmingLanguages}</p>
+                            </div>
+                            <div className="skills-section">
+                                <h3>Frameworks and Libraries</h3>
+                                <p>{INFO.skills.frameworksAndLibraries}</p>
+                            </div>
+                            <div className="skills-section">
+                                <h3>Technologies</h3>
+                                <p>{INFO.skills.technologies}</p>
+                            </div>
+                            <div className="skills-section">
+                                <h3>Development and Tools</h3>
+                                <p>{INFO.skills.developmentAndTools}</p>
+                            </div>
+                            <div className="skills-section">
+                                <h3>Concepts and Methodologies</h3>
+                                <p>{INFO.skills.conceptsAndMethodologies}</p>
+                            </div>
+                        </div>
+
+
 						<div className="homepage-projects">
 							<AllProjects />
 						</div>
@@ -193,7 +218,7 @@ const Homepage = () => {
 							</div>
 						</div> */}
 
-						
+
 
 						<div className="page-footer">
 							<Footer />
